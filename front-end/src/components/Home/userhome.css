@@ -1,0 +1,16 @@
+.sendreq-btn {
+  position: relative;
+  bottom: 40px;
+  left: 90px;
+}
+
+.avialable-btn {
+  margin-right: 10px !important;
+  background-color: #9e9d24;
+  color: #fff;
+}
+
+.avialable-btn:hover {
+  color: #fff !important;
+  cursor: none;
+}

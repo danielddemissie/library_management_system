@@ -1,0 +1,7 @@
+.graphpic {
+  background-image: url("../../assets/images/graphpic.png");
+  max-width: 300px;
+  height: 200px;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}

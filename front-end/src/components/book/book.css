@@ -1,0 +1,14 @@
+.book-form {
+  border: 2px solid #00bcd4;
+  border-radius: 5px;
+}
+
+.add-book-bnt {
+  margin: 10px 5px;
+  background-color: #247ea5;
+  color: #fff;
+  font-size: 22px;
+  padding: 5px;
+  border: 1px #fff solid;
+  border-radius: 4px;
+}

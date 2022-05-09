@@ -1,0 +1,24 @@
+body {
+  background-color: #fafafa;
+}
+
+.librarian-menu {
+  position: absolute;
+  top: 60px;
+  right: 50px;
+}
+
+.librarian-menu button {
+  margin-right: 10px;
+}
+
+@media (max-width: 600px) {
+  .librarian-menu button {
+    display: none;
+  }
+}
+@media (max-width: 500px) {
+  .librarian-menu button {
+    display: none;
+  }
+}

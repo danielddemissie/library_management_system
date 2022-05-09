@@ -1,0 +1,48 @@
+.logo-and-name {
+  margin-bottom: 10px;
+}
+.mr-auto {
+  position: relative;
+  left: 50%;
+  float: right;
+}
+
+.notif-icon {
+  color: #111;
+  font-size: 25px !important;
+}
+.notif-num {
+  position: relative;
+  bottom: 15px;
+  right: 7px;
+  padding: 2px 8px;
+  color: #fff;
+  font-weight: 500;
+  font-size: 15px !important;
+  background: brown;
+  border-radius: 50%;
+}
+
+.logout-at-navbar {
+  position: relative;
+  top: 10px;
+  padding: 10px;
+  font-size: 15px;
+}
+.logout-at-navbar:hover {
+  color: #004d40;
+}
+.Navbar-strap {
+  border: 0.5px solid #eceff1;
+}
+
+@media (max-width: 600px) {
+  .nofi-at-navbar {
+    display: none;
+  }
+  .mr-auto {
+    position: relative;
+    left: 0%;
+    float: left;
+  }
+}
